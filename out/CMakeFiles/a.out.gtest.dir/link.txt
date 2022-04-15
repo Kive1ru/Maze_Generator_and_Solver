@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.gtest.dir/gtest/gtestmain.cpp.o  -o bin/a.out.gtest  -Wl,-rpath,/home/ics46/projects/proj1/lib ../lib/libdarkmaze.so -lpthread -lc++ -lgtest -lgtest_main -Wl,--whole-archive lib/libdarkcore.a -Wl,--no-whole-archive -lpthread -lc++ 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/darkui/DarkApplication.hpp
+
+/home/ics46/projects/proj1/app/main.cpp
+DarkApplication.hpp
+/home/ics46/projects/proj1/app/DarkApplication.hpp
+

@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libdarkcore.a  CMakeFiles/darkcore.dir/core/KylinMazeGenerator.cpp.o CMakeFiles/darkcore.dir/core/KylinMazeSolver.cpp.o
+/usr/bin/ranlib lib/libdarkcore.a

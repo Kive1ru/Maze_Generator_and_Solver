@@ -1,0 +1,1 @@
+/usr/bin/clang++     CMakeFiles/a.out.exp.dir/exp/expmain.cpp.o  -o bin/a.out.exp  -Wl,-rpath,/home/ics46/projects/proj1/lib ../lib/libdarkmaze.so -lpthread -lc++ -Wl,--whole-archive lib/libdarkcore.a -Wl,--no-whole-archive -lpthread -lc++ 
